@@ -54,6 +54,6 @@ The project will be developed step by step, starting with the fundamentals and g
 
 ## 👩‍💻 Developer
 
-**Madiha Ayesha**
+**SHEEMA**
 
 GitHub: [github.com/sheemamca26](https://github.com/sheemamca26)
